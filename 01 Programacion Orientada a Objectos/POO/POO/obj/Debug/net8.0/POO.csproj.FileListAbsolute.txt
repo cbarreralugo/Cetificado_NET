@@ -1,0 +1,15 @@
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\bin\Debug\net8.0\POO.exe
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\bin\Debug\net8.0\POO.deps.json
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\bin\Debug\net8.0\POO.runtimeconfig.json
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\bin\Debug\net8.0\POO.dll
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\bin\Debug\net8.0\POO.pdb
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\obj\Debug\net8.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\obj\Debug\net8.0\POO.AssemblyInfoInputs.cache
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\obj\Debug\net8.0\POO.AssemblyInfo.cs
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\obj\Debug\net8.0\POO.csproj.CoreCompileInputs.cache
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\obj\Debug\net8.0\POO.sourcelink.json
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\obj\Debug\net8.0\POO.dll
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\obj\Debug\net8.0\refint\POO.dll
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\obj\Debug\net8.0\POO.pdb
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\obj\Debug\net8.0\POO.genruntimeconfig.cache
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\obj\Debug\net8.0\ref\POO.dll
