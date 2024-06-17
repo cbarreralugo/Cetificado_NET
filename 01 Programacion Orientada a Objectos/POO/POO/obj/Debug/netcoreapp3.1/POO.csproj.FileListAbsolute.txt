@@ -1,0 +1,14 @@
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\bin\Debug\netcoreapp3.1\POO.exe
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\bin\Debug\netcoreapp3.1\POO.deps.json
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\bin\Debug\netcoreapp3.1\POO.runtimeconfig.json
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\bin\Debug\netcoreapp3.1\POO.runtimeconfig.dev.json
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\bin\Debug\netcoreapp3.1\POO.dll
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\bin\Debug\netcoreapp3.1\POO.pdb
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\obj\Debug\netcoreapp3.1\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\obj\Debug\netcoreapp3.1\POO.AssemblyInfoInputs.cache
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\obj\Debug\netcoreapp3.1\POO.AssemblyInfo.cs
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\obj\Debug\netcoreapp3.1\POO.csproj.CoreCompileInputs.cache
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\obj\Debug\netcoreapp3.1\POO.sourcelink.json
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\obj\Debug\netcoreapp3.1\POO.dll
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\obj\Debug\netcoreapp3.1\POO.pdb
+C:\GIT\Certificacion\Cetificado_NET\01 Programacion Orientada a Objectos\POO\POO\obj\Debug\netcoreapp3.1\POO.genruntimeconfig.cache
